@@ -1,0 +1,6 @@
+---
+title: "Reproducible Research: Peer Assessment 1"
+author: "RH"
+date: "October 19, 2016"
+output: html_document
+---
